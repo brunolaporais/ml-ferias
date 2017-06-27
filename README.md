@@ -1,4 +1,4 @@
-## Projeto para introdução ao Aprendizado de Máquina (Machine Learning)
+## Projeto para introdução à Aprendizado de Máquina (Machine Learning)
 
 ### Dependências
 * numpy
